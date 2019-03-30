@@ -2,8 +2,14 @@
 
 ## Firmware
 
+### Official firmware
+
 * AT firmware: https://www.espressif.com/en/support/download/at
 * Datasheet: https://www.espressif.com/sites/default/files/2a-esp8266-sdk_getting_started_guide_en_0.pdf
+
+### NodeMCU
+
+https://github.com/nodemcu/nodemcu-firmware
 
 ## Terminal
 
