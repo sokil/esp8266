@@ -2,8 +2,8 @@
 
 ## Firmware
 
-AT firmware: https://www.espressif.com/en/support/download/at
-Datasheet: https://www.espressif.com/sites/default/files/2a-esp8266-sdk_getting_started_guide_en_0.pdf
+* AT firmware: https://www.espressif.com/en/support/download/at
+* Datasheet: https://www.espressif.com/sites/default/files/2a-esp8266-sdk_getting_started_guide_en_0.pdf
 
 ## Terminal
 
@@ -20,6 +20,8 @@ Flow control: none
 ## AT commands
 
 ## Flasher
+
+Initial boot address is 0x00000.
 
 ### ESPTool
 
@@ -77,6 +79,7 @@ Hash of data verified.
 
 Leaving...
 Hard resetting via RTS pin...
-
 ```
+
+
 
