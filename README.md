@@ -47,6 +47,8 @@ Hard resetting via RTS pin...
 
 Download latest firmware at: https://www.espressif.com/en/support/download/at?keys=&field_type_tid%5B%5D=14
 
+Or extract local AT_V1.1_on_ESP8266_NONOS_SDK_V1.5.4.zip.
+
 Flash it:
 
 ```
