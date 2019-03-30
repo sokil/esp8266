@@ -1,5 +1,9 @@
 # esp8266
 
+## Firmware
+
+https://www.espressif.com/en/support/download/at
+
 ## Terminal
 
 ```
