@@ -25,5 +25,21 @@ Flow control: none
 https://github.com/espressif/esptool
 
 ```
-
+sokil@hp:~$ sudo esptool.py -p /dev/ttyUSB0 flash_id
+esptool.py v2.6
+Serial port /dev/ttyUSB0
+Connecting....
+Detecting chip type... ESP8266
+Chip is ESP8266EX
+Features: WiFi
+MAC: 18:fe:34:d3:1f:b5
+Uploading stub...
+Running stub...
+Stub running...
+Manufacturer: e0
+Device: 4014
+Detected flash size: 1MB
+Hard resetting via RTS pin...
 ```
+
+
